@@ -2,4 +2,4 @@ Been Curious about programming for a long while after finding a passion in playi
 
 I Am Currently Re-learning in my own time C++ from the basics and wish to Look into Vulkan, OpenGL, And DirectX 12 iin the future. My Currrent Goal is to make a Game Engine or Game in the future with the knowledge. But for now I am going to build up to it with other projects.
 
-If you want to chat Games,Anime, Programming, or just in general My Twitter Handle is @TheEndHunter.
+If you want to chat Games,Anime, Programming, or just in general My Twitter Handle In my Profile!
